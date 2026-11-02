@@ -26,6 +26,8 @@ A desk buddy that reacts to you throught a touch sensor and allows you to play a
 
 Enclosure designed in Onshape: [View Onshape Model](https://cad.onshape.com/documents/63adeef6886e48c42ac3f940/w/7a23baff083423aa6f7d1430/e/b7cafec5227014a420d5a64e?renderMode=0&uiState=6ae7f9126a47f3d1b920d4d5)
 
+[Step Files are here](https://github.com/Shashvat1333/Desk-Buddy-Micro-Pad/tree/main/CAD)
+
 ---
 
 ## Wiring
