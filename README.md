@@ -1,6 +1,6 @@
 # Desk-Buddy-Micro-Pad
 
-A desk buddy that reacts to you throught a touch sensor and allows you to play a single play ping pong game or set a timer for yourself. On top of that it is also has a building micro pad where you can auto mate three thing on your device from a single click. 
+A desk buddy that reacts to you throught a touch sensor and allows you to play a single play ping pong game or set a timer for yourself. On top of that it also has a building micro pad where you can auto mate three thing on your device from a single click. 
 
 <img width="1062" height="770" alt="image" src="https://github.com/user-attachments/assets/a3ec0c0d-f38d-4688-8b42-9186237718a5" />
 
@@ -16,7 +16,7 @@ A desk buddy that reacts to you throught a touch sensor and allows you to play a
 ## What It Does
 
 - **1 touch pads:** Touch the pad on the top of the desk buddy to react with it.
-- **2 emotions:** Make it happy for 3 secounds by taping the pad once or made by taping it non stop.
+- **2 emotions:** Make it happy for 3 secounds by taping the pad once or made by taping it 3+ times.
 - **Set a timer or play a game** Tap it exactly twice to set a timer or hold for 3 secounds to play a ping pong game using a potentiometer.
 - **Automate something on your device:** Make something you use everyday easy using the 3 keys.
 
